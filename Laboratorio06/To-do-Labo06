@@ -1,0 +1,8 @@
+1. ¿En Qué Consiste El Patrón De Diseño Repository?
+    R//: Es una forma de diseno de la estructura que se basa en separar
+         la capa de datos de la aplicacion de el resto. Este patron la capa de UI se comunica con el repository, y este es el que se comunica con todas las fuentes de los datos, que pueden ser Modelos o Bases de datos.
+
+
+
+2. ¿Qué es el ViewModel?
+R//: Es una clase o contenedor de estado que nos sirve para almacenar los datos que se van a mostrar en la capa de UI, sin que estos se vean afectados por los cambios de estado de la actividad o fragmento.
